@@ -1,0 +1,5 @@
+ccxt==4.1.6
+pandas==2.0.3
+python-telegram-bot==20.5
+schedule==1.2.0
+sqlalchemy==2.0.20
